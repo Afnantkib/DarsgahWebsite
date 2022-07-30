@@ -1,0 +1,26 @@
+* {
+
+    font-family: 'Lato', sans-serif;
+}
+
+header,main {
+
+    text-align: center;
+    font-weight: bolder;
+}
+ul,h6{
+    font-weight: 100;
+    line-height: 2rem;
+    
+}
+ul{
+    text-align: justify;
+}
+.begin{
+    font-weight: 200;
+    line-height: 3rem;
+}
+
+img {
+    width: 20rem;
+}
